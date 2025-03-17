@@ -1,0 +1,1 @@
+npx sequelize-cli model:generate --name Chat --attributes name:string,message:text,is_attending:boolean
